@@ -25,6 +25,7 @@ Filter Rows
 Conditional Columns
 Custom Columns
 🧹 Data Cleaning Process
+
 The following cleaning steps were performed during this project:
 
 Imported raw dataset into Power BI.
@@ -38,8 +39,8 @@ Trimmed extra spaces from text fields.
 Cleaned non-printable characters.
 Filtered unwanted records.
 Standardized text formatting.
-Created new calculated columns where necessary.
 Verified the cleaned dataset before analysis.
+
 📊 Skills Demonstrated
 Data Cleaning
 Data Transformation
@@ -49,6 +50,7 @@ Data Quality Management
 ETL (Extract, Transform, Load)
 Data Modeling Fundamentals
 Problem Solving
+
 📁 Project Structure
 Project 1 - Data Cleaning
 │
@@ -64,20 +66,7 @@ Use Power Query Editor efficiently.
 Apply multiple transformation techniques.
 Improve data consistency and reliability.
 Build a strong foundation for creating dashboards.
-📷 Project Preview
-(Add screenshots of your Power Query transformations or cleaned dataset here.)
 
-Example:
-
-images/
-├── power-query-editor.png
-├── cleaned-data.png
-📌 Technologies
-Microsoft Power BI
-Power Query
-Data Cleaning
-ETL
-Data Transformation
 👨‍💻 Author
 Falodun Bolanle Adedayo. Data Analyst | Power BI | Excel | SQL
 
